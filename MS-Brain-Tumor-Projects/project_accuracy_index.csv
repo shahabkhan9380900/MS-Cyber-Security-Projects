@@ -1,0 +1,23 @@
+No,Project,Original notebook,Best test/validation,Unseen ensemble
+01,01-Brain-Tumor-Classification-ML-CNN-Baseline,11_8_25.ipynb,RF 96.85%,
+02,02-Brain-Tumor-Classification-With-Data-Augmentation,12_8_25.ipynb,RF 96.74%,
+03,03-Brain-Tumor-Classification-Augmented-CNN-ML,13_8_25.ipynb,RF 96.52%,
+04,04-Brain-Tumor-Classification-Ensemble-Experiment,14_8_25.ipynb,KNN 93.40%,
+05,05-Brain-Tumor-Classification-CNN-ML-Ensemble,15_8_2025.ipynb,KNN 96.80%,
+06,06-Brain-Tumor-Classification-PCA-Ensemble,16_8_2025.ipynb,KNN 96.80%,
+07,07-Brain-Tumor-Classification-PCA-Model-Comparison,17_8_25.ipynb,Ensemble 95.80%,
+08,08-Brain-Tumor-Classification-Improved-Ensemble,19_8_2025.ipynb,Ensemble 96.30%,
+09,09-Brain-Tumor-Classification-Ensemble-1200-Test,24_8_2025.ipynb,Ensemble 96.67%,
+10,10-Brain-Tumor-Classification-Tuned-Ensemble,25_8_2025.ipynb,Ensemble 97.12%,
+11,11-Brain-Tumor-Classification-Optimized-Ensemble,26_8_2025.ipynb,Ensemble 96.88%,
+12,12-Brain-Tumor-Classification-Best-Validation-Ensemble,best_accuracy_26_8_2025.ipynb,Ensemble 97.88%,
+13,13-Brain-Tumor-Classification-Data-Augmentation-Study,data_augmention apply.ipynb,RF 96.74%,
+14,14-Brain-Tumor-Classification-CNN-Focused-Study,perfect_on_Cnn_15_8_25.ipynb,KNN 91.50%,
+15,15-Brain-Tumor-Classification-Ensemble-Value-Added,ENSEMBLE VALUE ADDDED.ipynb,RF 96.85%,
+16,16-Brain-Tumor-No-Feature-Extraction-Unseen-Study,Final_work(simple code no features extraction)unsen 80 acc.ipynb,SVM 97.81%,80.00%
+17,17-Brain-Tumor-HOG-Ensemble-Study,Final_work(97.5)  with hog.ipynb,SVM 97.88%,85.00%
+18,18-Brain-Tumor-Unseen-Ensemble-95-56,Final_work(95.55 accuracy on unseen data).ipynb,Ensemble 97.88%,95.56%
+19,19-Brain-Tumor-Unseen-Ensemble-97-78,Final_work(97.77 acc on unseen data).ipynb,Ensemble 97.88%,97.78%
+20,20-Brain-Tumor-Unseen-Ensemble-98-89,Final_work(98% accuracy on unseen data(8_9_2025).ipynb,Ensemble 98.00%,98.89%
+21,21-Brain-Tumor-Classifier-GUI,GUI_for_my_work(9_9_2025) nice work.ipynb,,
+22,22-Brain-Tumor-Classifier-Scrollable-GUI,GUI_for_my_work(scrol nice 9_9_2025.ipynb,,
